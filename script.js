@@ -10,4 +10,4 @@ if("geolocation" in navigator)
 else{
    alert("behan ke lavde location chalu karna re")
 }
-console.log(navigator)
+// console.log(navigator)
